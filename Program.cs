@@ -1,4 +1,4 @@
-﻿// 
+﻿// Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
 
 double[,] CreateMatrix(int Row, int Column, double leftRange, double rightRange)
 {
